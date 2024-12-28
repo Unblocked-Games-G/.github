@@ -13,6 +13,7 @@ Unblocked Games G+ is a collection of browser-based games that work in environme
 
 Our project is fully compatible with educational tools like **G+ Classroom**, making it easy to integrate gaming experiences into learning environments.  
 
+<a href="https://sites.google.com/classrooms.management/view/"><img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTXjI2p_14eNvgNdYj7QzoKwQXyTT5O1_QVNgCG0erwgX08QzKFDPVs9TwfRqoQ3xcolnwa2w"/></a>
 ---
 
 ## 🌟 Key Features  
@@ -62,10 +63,10 @@ By focusing on these keywords, **Unblocked Games G+** has been tailored to attra
 Here’s a sneak peek into what **Unblocked Games G+** looks like:  
 
 ### Homepage  
-![Homepage Preview](https://via.placeholder.com/800x450)  
+<a href="https://sites.google.com/classrooms.management/view/"><img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTXjI2p_14eNvgNdYj7QzoKwQXyTT5O1_QVNgCG0erwgX08QzKFDPVs9TwfRqoQ3xcolnwa2w"/></a> 
 
 ### Game Page  
-![Game Example](https://via.placeholder.com/800x450)  
+<a href="https://sites.google.com/classrooms.management/view/"><img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTXjI2p_14eNvgNdYj7QzoKwQXyTT5O1_QVNgCG0erwgX08QzKFDPVs9TwfRqoQ3xcolnwa2w"/></a>
 
 ---
 
