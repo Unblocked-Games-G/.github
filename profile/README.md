@@ -1,9 +1,8 @@
-# Welcome to **Unblocked Games G+** 🎮  
+## Welcome to **Unblocked Games G+** 🎮  
 
 <a href="https://sites.google.com/classrooms.management/view/">PLAY UNBLOCKED GAMES</a>
 <hr>
 <a href="https://sites.google.com/view/drive-u-7-home-2/">PLAY UNBLOCKED GAMES 2</a>
-Hi there! 👋  
 
 This GitHub profile is dedicated to **Unblocked Games G+**, a project designed to provide a seamless, fun, and restriction-free gaming experience for users worldwide. Whether you’re a student looking for a quick break during school hours or a professional unwinding during work breaks, this project has got you covered!  
 
