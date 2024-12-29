@@ -27,7 +27,7 @@ Here’s why **Unblocked Games G+** stands out:
 
 ---
 
-## 🚀 How to Use Unblocked Games G+  
+## 🚀 How to Use Unblocked Games Classroom  
 
 1. **Explore the Repository**  
    Browse the games library available in this GitHub profile or directly access them via hosted pages.  
